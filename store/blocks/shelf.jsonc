@@ -1,14 +1,8 @@
 {
-  "store.home": {
-    "blocks": [
-      
-      "shelf"
-    ]
-  },
-  
+
   "shelf": {
     "blocks": [
-      
+
     ],
     "props": {
       "category": 1,

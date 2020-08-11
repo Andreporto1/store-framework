@@ -25,7 +25,9 @@
       "product-name",
       "product-identifier.product",
       "product-price",
-      "buy-button"
+      "buy-button",
+      "flex-layout.col#right"
+
     ],
     "props": {
       "verticalAlign": "middle",
@@ -56,7 +58,7 @@
   },
   "product-quantity":{
     "props":{
-      "warningQuantityThreshold": 9999999
+      "warningQuantityThreshold": 999999
     }
   },
   "shipping-simulator":{

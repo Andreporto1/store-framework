@@ -47,7 +47,7 @@
     ]
   },
   "search-content": {
-    "blocks": ["gallery", "not-found"]
+    "children": ["gallery", "not-found"]
   },
   "gallery": {
     "blocks": ["product-summary.shelf"]

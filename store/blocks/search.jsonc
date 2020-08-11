@@ -18,7 +18,6 @@
       "search-fetch-previous",
       "flex-layout.row#results",
       "search-fetch-more",
-      "filter-navigator.v3",
       "search-content"
     ]
   },
@@ -31,7 +30,8 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
-      "flex-layout.col#search"
+      "flex-layout.col#search",
+      "filter-navigator.v3"
     ]
   },
   "flex-layout.col#filter": {

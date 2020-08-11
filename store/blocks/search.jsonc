@@ -34,11 +34,15 @@
       "flex-layout.col#search"
     ]
   },
- 
-  "flex-layout.col#search":{
+  "flex-layout.col#filter": {
     "props": {
-
+      "width": "20%"
     }
+  },
+  "flex-layout.col#search":{
+    "chidren": [
+      "search-content"
+    ]
   },
   "search-content": {
     "blocks": ["gallery", "not-found"]

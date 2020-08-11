@@ -17,8 +17,7 @@
       "flex-layout.row#top",
       "search-fetch-previous",
       "flex-layout.row#results",
-      "search-fetch-more",
-      "search-content"
+      "search-fetch-more"
     ]
   },
   "flex-layout.row#top": {

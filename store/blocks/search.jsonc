@@ -47,9 +47,9 @@
   },
   "search-content": {
     "blocks": [
-      "not-found",
-      "gallery"
-
+      "gallery",
+      "not-found"
+   
     ]
   },
   "gallery": {

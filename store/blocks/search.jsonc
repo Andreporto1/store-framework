@@ -17,7 +17,9 @@
       "flex-layout.row#top",
       "search-fetch-previous",
       "flex-layout.row#results",
-      "search-fetch-more"
+      "search-fetch-more",
+      "filter-navigator.v3",
+      "search-content"
     ]
   },
   "flex-layout.row#top": {
@@ -36,5 +38,11 @@
     "props": {
       "width": "20%"
     }
+  },
+  "search-content": {
+    "blocks": ["gallery", "not-found"]
+  },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
   }
 }

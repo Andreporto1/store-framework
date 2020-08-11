@@ -45,14 +45,14 @@
       "search-content"
     ]
   },
-  "gallery": {
-    "blocks": ["product-summary.shelf"]
-  },
   "search-content": {
     "blocks": [
       "not-found",
       "gallery"
 
     ]
+  },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
   }
 }

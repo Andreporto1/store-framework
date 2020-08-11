@@ -34,7 +34,8 @@
   },
   "flex-layout.col#filter": {
     "props": {
-      "width": "20%"
+      "width": "20%",
+      "horizontalAlign": "left"
     },
     "children": [
       "filter-navigator.v3"

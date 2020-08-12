@@ -17,13 +17,14 @@
           "rich-text#about-content"
         ],
             "props": {
-          "preventVerticalStretch": true
+          "preventVerticalStretch": true,
+          "textPosition": "right"
         }
       },
      "rich-text#about-title": {
         "props": {
           "text":
-          "# About FlatFlat"
+          "# Sobre a FlatFlat"
         }
       },
       "rich-text#about-content": {
@@ -53,12 +54,14 @@
       "tab-list.item#home1":{
         "props":{
           "tabId": "majorAppliances",
+          "label": "Major Appliances",
           "defaultActiveTab": true
         }
       },
       "tab-list.item#home2":{
         "props":{
           "tabId": "electronics",
+          "label": "Electronics",
           "defaultActiveTab": true
 
         }

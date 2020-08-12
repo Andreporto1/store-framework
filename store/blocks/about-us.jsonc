@@ -60,6 +60,7 @@
         "props":{
           "tabId": "electronics",
           "defaultActiveTab": true
+          
         }
       },
       "tab-content#home":{

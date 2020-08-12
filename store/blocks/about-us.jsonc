@@ -72,7 +72,7 @@
           "rich-text#home1"
         ],
         "props": {
-          "tabId": "majorAppliances"
+          "tabId": "Major Appliances"
         }
       },
 
@@ -81,7 +81,7 @@
           "rich-text#home2"
         ],
         "props": {
-          "tabId": "electronics"
+          "tabId": "Electronics"
         }
       },
 

@@ -50,12 +50,12 @@
           "tab-list.item#home1",
           "tab-list.item#home2"
         ]
-      
-      // "tab-list.item#home1":{
-      //   "props":{
-      //     "tabId": "sobre",
-      //     "defaultActiveTab": true
-      //   }
+      },
+      "tab-list.item#home1":{
+        "props":{
+          "tabId": "home1",
+          "defaultActiveTab": true
+        }
       },
       "tab-list.item#home2":{
         "props":{

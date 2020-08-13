@@ -8,7 +8,8 @@
   "header.full": {
     "blocks": [
       "header-layout.desktop",
-      "header-layout.mobile"
+      "header-layout.mobile",
+      "header-row#main"
     ]
   },
   "header-layout.desktop": {
@@ -54,7 +55,7 @@
     ],
     "props": {
       "sticky": true,
-      "inverted":true
+      "inverted": true
     }
   },
   "header-row#search": {
@@ -65,13 +66,13 @@
       "sticky": true
     }
   },
-  "login":{
+  "login": {
     "props": {
       "showIconProfile": true,
       "iconLabel": "Login"
     }
   },
-  "logo":{
+  "logo": {
     "props": {
       "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
     }

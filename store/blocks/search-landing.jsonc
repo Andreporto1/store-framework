@@ -1,25 +1,24 @@
 {
     "store.custom#landing": {
-        "blocks": [
-           "image#landingbanner", 
-           "search-result-layout.customQuery"
-        ]
-      },
-      "image#landingbanner":{
-          "props":{
-              "minWidth": "100%",
-              "src": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-          }
-      },
-      "search-result-layout.customQuery":{
-        "props": {
-            "querySchema": {
-             "orderByField": "OrdeByReleaseDateDESC"   ,
-            "queryField": "Blue Top Retro Camera",
-            "skusFilter": "FIRST_AVAILABLE",
-            "maxItemsPerPage": 8,
-            "hideUnavailableItems": true 
+      "blocks": [
+        "image#landingbanner",
+        "search-result-layout.customQuery"
+      ]
+    },
+    "image#landingbanner": {
+      "props": {
+        "minWidth": "100%",
+        "src": "https://cdn.pixabay.com/photo/2013/12/11/03/13/puzzle-226743_1280.jpg"
+      }
+    },
+    "search-result-layout.customQuery": {
+      "props": {
+        "querySchema": {
+          "orderByField": "OrderByReleaseDateDESC",
+          "hideUnavailableItems": true,
+          "maxItemsPerPage": 8,
+          "queryField": "Blue Top Retro Camera"
         }
       }
     }
-}
+  }

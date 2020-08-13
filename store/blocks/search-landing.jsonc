@@ -18,7 +18,7 @@
             "queryField": "Blue Top Retro Camera",
             "skusFilter": "FIRST_AVAILABLE",
             "maxItemsPerPage": 8,
-            "hideUnavailableItems": true
+            "hideUnavailableItems": true 
         }
       }
     }

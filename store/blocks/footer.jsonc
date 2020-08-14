@@ -18,6 +18,7 @@
           "paddingBottom": 7
         }
       },
+      
       "accepted-payment-methods":{
           "props":{
             "paymentMethods": ["mastercard", "visa", "diners club"],
@@ -26,7 +27,7 @@
       },
       "flex-layout.col#footer-left-desktop":{
           "children": [
-            "social-networks",
+           
             "accepted-payment-methods"
         ]
       },
